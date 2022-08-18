@@ -1,3 +1,3 @@
 # Merge-Sort
 
-[https://app.patika.dev/brkylcn]
+[https://app.patika.dev/brkylcn](url)
