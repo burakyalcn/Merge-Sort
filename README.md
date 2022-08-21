@@ -1,6 +1,6 @@
 # Merge-Sort
 
-[patika]([url](https://app.patika.dev/brkylcn))
+[patika](https://app.patika.dev/brkylcn)
 
 [16,21,11,8,12,22] -> Merge Sort
 > Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
